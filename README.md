@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PrasenjitMondal-code
+- 👋 Hi, I’m Prasenjit Mondal
 - 👀 I’m interested in ML, AI, Quantum Computing
-- 🌱 I’m currently learning Full Stack web developer ML Python
+- 🌱 I’m currently learning Full Stack web developer  & AI 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
