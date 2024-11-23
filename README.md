@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasenjit Mondal
 - 👀 I’m interested in ML, AI, Quantum Computing
-- 🌱 I’m currently learning Full Stack web developer  & AI 
+- 🌱 I’m currently learning Semiconductor Physics emplementation with next generation AI Chips 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
